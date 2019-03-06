@@ -1,0 +1,10 @@
+coffee_with_milk 35
+coffee 30
+Black_tea 20
+Green_tea 20
+Latte 60
+Cappuccino 55
+Americano 40
+Expresso 40
+Double_expresso 50 
+Mokachino 45
